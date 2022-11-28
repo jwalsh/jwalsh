@@ -1,4 +1,4 @@
-- 👋 Hi, I’m [@jwalsh](https://github.com/jwalsh1) or [@jwalsh1-chwy](https://github.com/jwalsh1-chwy)
+- 👋 Hi, I’m [@jwalsh](https://github.com/jwalsh) or [@jwalsh1-chwy](https://github.com/jwalsh1-chwy)
 - 👀 I’m interested in FinTech and AdTech ML modeling 
 - 📫 j at wal.sh
 
