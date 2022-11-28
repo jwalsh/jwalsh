@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @jwalsh
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on 
+- 👋 Hi, I’m [@jwalsh](https://github.com/jwalsh1) or [@jwalsh1-chwy](https://github.com/jwalsh1-chwy)
+- 👀 I’m interested in FinTech and AdTech ML modeling 
 - 📫 j at wal.sh
 
 <!---
