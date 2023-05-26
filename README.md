@@ -1,4 +1,4 @@
-- 👋 [@jwalsh](https://github.com/jwalsh) or [@jwalsh1-chwy](https://github.com/jwalsh1-chwy)
+- 👋 [@jwalsh](https://github.com/jwalsh)
 - 📫 j at [wal.sh](http://wal.sh)
 
 <!---
