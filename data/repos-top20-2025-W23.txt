@@ -8,13 +8,13 @@
    8 workshop
    8 education
    5 org-mode
+   5 functional-programming
+   5 educational
    4 rag
    4 mathematics
    4 machine-learning
+   4 lisp
    4 generative-ai
-   4 functional-programming
    4 aws
    4 ai
    3 visualization
-   3 statistics
-   3 retrieval-augmented-generation

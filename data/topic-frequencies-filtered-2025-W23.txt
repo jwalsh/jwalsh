@@ -8,17 +8,21 @@
    8 workshop
    8 education
    5 org-mode
+   5 functional-programming
+   5 educational
    4 rag
    4 mathematics
    4 machine-learning
+   4 lisp
    4 generative-ai
-   4 functional-programming
    4 aws
    4 ai
    3 visualization
    3 statistics
    3 retrieval-augmented-generation
+   3 data-structures
    3 clojure
+   3 algorithms
    2 x11
    2 unix
    2 simulation
@@ -32,12 +36,12 @@
    2 metrics
    2 mermaid
    2 mcp
-   2 lisp
    2 langchain
    2 guile
    2 fine-tuning
-   2 educational
    2 developer-tools
+   2 computer-science
+   2 common-lisp
    2 bedrock
    2 aws-services
    2 automation

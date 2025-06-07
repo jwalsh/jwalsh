@@ -13,14 +13,14 @@
 [workshop](https://github.com/search?q=topic%3Aworkshop&type=repositories)<sup>8</sup>
 [education](https://github.com/search?q=topic%3Aeducation&type=repositories)<sup>8</sup>
 [org-mode](https://github.com/search?q=topic%3Aorg-mode&type=repositories)<sup>5</sup>
+[functional-programming](https://github.com/search?q=topic%3Afunctional-programming&type=repositories)<sup>5</sup>
+[educational](https://github.com/search?q=topic%3Aeducational&type=repositories)<sup>5</sup>
 [rag](https://github.com/search?q=topic%3Arag&type=repositories)<sup>4</sup>
 [mathematics](https://github.com/search?q=topic%3Amathematics&type=repositories)<sup>4</sup>
 [machine-learning](https://github.com/search?q=topic%3Amachine-learning&type=repositories)<sup>4</sup>
+[lisp](https://github.com/search?q=topic%3Alisp&type=repositories)<sup>4</sup>
 [generative-ai](https://github.com/search?q=topic%3Agenerative-ai&type=repositories)<sup>4</sup>
-[functional-programming](https://github.com/search?q=topic%3Afunctional-programming&type=repositories)<sup>4</sup>
 [aws](https://github.com/search?q=topic%3Aaws&type=repositories)<sup>4</sup>
 [ai](https://github.com/search?q=topic%3Aai&type=repositories)<sup>4</sup>
 [visualization](https://github.com/search?q=topic%3Avisualization&type=repositories)<sup>3</sup>
-[statistics](https://github.com/search?q=topic%3Astatistics&type=repositories)<sup>3</sup>
-[retrieval-augmented-generation](https://github.com/search?q=topic%3Aretrieval-augmented-generation&type=repositories)<sup>3</sup>
 

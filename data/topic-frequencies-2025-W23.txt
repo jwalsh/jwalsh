@@ -8,17 +8,21 @@
    8 workshop
    8 education
    5 org-mode
+   5 functional-programming
+   5 educational
    4 rag
    4 mathematics
    4 machine-learning
+   4 lisp
    4 generative-ai
-   4 functional-programming
    4 aws
    4 ai
    3 visualization
    3 statistics
    3 retrieval-augmented-generation
+   3 data-structures
    3 clojure
+   3 algorithms
    2 x11
    2 unix
    2 simulation
@@ -32,12 +36,12 @@
    2 metrics
    2 mermaid
    2 mcp
-   2 lisp
    2 langchain
    2 guile
    2 fine-tuning
-   2 educational
    2 developer-tools
+   2 computer-science
+   2 common-lisp
    2 bedrock
    2 aws-services
    2 automation
@@ -48,6 +52,7 @@
    1 xaw
    1 word-game
    1 webassembly
+   1 vsevolod-domkin
    1 verification
    1 vector-search
    1 utilities
@@ -81,10 +86,12 @@
    1 qrcode
    1 python3
    1 python-tutorial
+   1 python-lisp
    1 python-internals
    1 puzzles
    1 prompt-management
    1 project-management
+   1 programming
    1 probability-distributions
    1 popl
    1 polyglot
@@ -139,6 +146,7 @@
    1 evaluation
    1 embeddings
    1 emacsconf
+   1 efficient-algorithms
    1 editor
    1 dynamodb
    1 dreamobjects
@@ -155,7 +163,6 @@
    1 context-managers
    1 confluence
    1 concurrency
-   1 computer-science
    1 competition
    1 community-event
    1 codenexus
@@ -173,6 +180,8 @@
    1 builder-agents
    1 boston-python
    1 book-review
+   1 book-code
+   1 book
    1 board-game
    1 baudrillard
    1 babel
