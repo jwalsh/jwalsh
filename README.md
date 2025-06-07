@@ -22,5 +22,5 @@
 [book](https://github.com/search?q=topic%3Abook&type=repositories)<sup>5</sup>
 [rag](https://github.com/search?q=topic%3Arag&type=repositories)<sup>4</sup>
 [mathematics](https://github.com/search?q=topic%3Amathematics&type=repositories)<sup>4</sup>
-[aws](https://github.com/search?q=topic%3Aaws&type=repositories)<sup>4</sup>
+[gaming](https://github.com/search?q=topic%3Agaming&type=repositories)<sup>4</sup>
 

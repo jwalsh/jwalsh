@@ -17,12 +17,14 @@
    5 book
    4 rag
    4 mathematics
+   4 gaming
    4 aws
    4 ai
    3 visualization
    3 statistics
    3 scheme
    3 retrieval-augmented-generation
+   3 gamr
    3 developer-tools
    3 data-structures
    3 common-lisp
@@ -34,6 +36,7 @@
    2 rest-api
    2 random-processes
    2 prompt-engineering
+   2 project-gamr
    2 programming-languages
    2 probability
    2 openapi
@@ -47,9 +50,12 @@
    2 mcp
    2 langchain
    2 guile
+   2 game
+   2 frontend
    2 fine-tuning
    2 computer-science
    2 bedrock
+   2 backend
    2 aws-services
    2 automation
    2 api-specification
@@ -62,6 +68,7 @@
    1 wurfl
    1 word-game
    1 webassembly
+   1 web-app
    1 vsevolod-domkin
    1 verification
    1 vector-search
@@ -79,12 +86,14 @@
    1 testing
    1 task-decomposition
    1 system-design
+   1 system-architecture
    1 swagger
    1 summit
    1 study-group
    1 stochastic-processes
    1 stochastic
    1 statistical-analysis
+   1 spa
    1 snippets
    1 slideshow
    1 simulacra
@@ -132,6 +141,7 @@
    1 monte-carlo
    1 monitoring
    1 modernization
+   1 mobile-game
    1 mobile
    1 mlops
    1 mla-c01
@@ -151,6 +161,7 @@
    1 journal-analysis
    1 javascript-library
    1 javascript
+   1 ingress
    1 infrastructure
    1 hy
    1 html
@@ -160,16 +171,13 @@
    1 gutenberg
    1 graphql
    1 gpt
+   1 glyphs
    1 github-profile
    1 github-api
    1 git
    1 generators
    1 genai
-   1 gamr
-   1 gaming
    1 gameday
-   1 game
-   1 frontend
    1 foundation-models
    1 exporter
    1 experimental
@@ -222,7 +230,6 @@
    1 board-game
    1 beginner-friendly
    1 baudrillard
-   1 backend
    1 babel
    1 babashka
    1 aws-training
@@ -235,6 +242,7 @@
    1 aws-certification
    1 aws-bedrock
    1 aws-ai-practitioner
+   1 augmented-reality
    1 async-python
    1 artificial-intelligence
    1 architecture

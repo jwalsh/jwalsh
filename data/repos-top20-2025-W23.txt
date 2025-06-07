@@ -17,4 +17,4 @@
    5 book
    4 rag
    4 mathematics
-   4 aws
+   4 gaming

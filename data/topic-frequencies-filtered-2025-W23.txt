@@ -17,12 +17,14 @@
    5 book
    4 rag
    4 mathematics
+   4 gaming
    4 aws
    4 ai
    3 visualization
    3 statistics
    3 scheme
    3 retrieval-augmented-generation
+   3 gamr
    3 developer-tools
    3 data-structures
    3 common-lisp
@@ -34,6 +36,7 @@
    2 rest-api
    2 random-processes
    2 prompt-engineering
+   2 project-gamr
    2 programming-languages
    2 probability
    2 openapi
@@ -47,9 +50,12 @@
    2 mcp
    2 langchain
    2 guile
+   2 game
+   2 frontend
    2 fine-tuning
    2 computer-science
    2 bedrock
+   2 backend
    2 aws-services
    2 automation
    2 api-specification
