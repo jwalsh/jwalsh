@@ -1,4 +1,4 @@
-  13 python
+  14 python
   13 emacs
   12 llm
   12 emacs-lisp
@@ -15,11 +15,11 @@
    5 generative-ai
    5 functional-programming
    5 book
+   5 ai
    4 rag
    4 mathematics
    4 gaming
    4 aws
-   4 ai
    3 visualization
    3 statistics
    3 scheme
@@ -29,6 +29,7 @@
    3 data-structures
    3 common-lisp
    3 clojure
+   3 automation
    3 algorithms
    2 x11
    2 unix
@@ -57,7 +58,6 @@
    2 bedrock
    2 backend
    2 aws-services
-   2 automation
    2 api-specification
    2 api-design
    1 yasnippet
@@ -69,7 +69,9 @@
    1 word-game
    1 webassembly
    1 web-app
+   1 vtt-processing
    1 vsevolod-domkin
+   1 video-processing
    1 verification
    1 vector-search
    1 validation
@@ -78,6 +80,7 @@
    1 typespec
    1 type-hints
    1 tutorial
+   1 transcript-analysis
    1 tokenization
    1 token-usage
    1 tmux
@@ -89,6 +92,7 @@
    1 system-architecture
    1 swagger
    1 summit
+   1 summarization
    1 study-group
    1 stochastic-processes
    1 stochastic
@@ -129,6 +133,7 @@
    1 philosophy
    1 parser
    1 openai
+   1 ollama
    1 observability
    1 object-storage
    1 numerical-methods
@@ -196,16 +201,19 @@
    1 design-patterns
    1 descriptors
    1 defrecord
+   1 defcon
    1 deep-learning
    1 decorators
    1 data-visualization
    1 data-structure
    1 data-science
+   1 data-processing
    1 cross-platform
    1 cpython
    1 course
    1 context-managers
    1 confluence
+   1 conference-notes
    1 concurrency
    1 competition
    1 community-event

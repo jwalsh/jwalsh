@@ -1,4 +1,4 @@
-  13 python
+  14 python
   13 emacs
   12 llm
   12 emacs-lisp
@@ -15,6 +15,6 @@
    5 generative-ai
    5 functional-programming
    5 book
+   5 ai
    4 rag
    4 mathematics
-   4 gaming

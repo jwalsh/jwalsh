@@ -1,4 +1,4 @@
-  13 python
+  14 python
   13 emacs
   12 llm
   12 emacs-lisp
@@ -15,11 +15,11 @@
    5 generative-ai
    5 functional-programming
    5 book
+   5 ai
    4 rag
    4 mathematics
    4 gaming
    4 aws
-   4 ai
    3 visualization
    3 statistics
    3 scheme
@@ -29,6 +29,7 @@
    3 data-structures
    3 common-lisp
    3 clojure
+   3 automation
    3 algorithms
    2 x11
    2 unix
@@ -57,6 +58,5 @@
    2 bedrock
    2 backend
    2 aws-services
-   2 automation
    2 api-specification
    2 api-design
