@@ -3,13 +3,24 @@
 
 -----
 
-[[https://github.com/search?q=topic%3Apython&type=repositories][python]]^{5}
-[[https://github.com/search?q=topic%3Arag&type=repositories][rag]]^{3}
-[[https://github.com/search?q=topic%3Allm&type=repositories][llm]]^{3}
-[[https://github.com/search?q=topic%3Avisualization&type=repositories][visualization]]^{2}
-[[https://github.com/search?q=topic%3Aretrieval-augmented-generation&type=repositories][retrieval-augmented-generation]]^{2}
-[[https://github.com/search?q=topic%3Amachine-learning&type=repositories][machine-learning]]^{2}
+[[https://github.com/search?q=topic%3Apython&type=repositories][python]]^{9}
+[[https://github.com/search?q=topic%3Allm&type=repositories][llm]]^{7}
+[[https://github.com/search?q=topic%3Arag&type=repositories][rag]]^{4}
+[[https://github.com/search?q=topic%3Afunctional-programming&type=repositories][functional-programming]]^{4}
+[[https://github.com/search?q=topic%3Avisualization&type=repositories][visualization]]^{3}
+[[https://github.com/search?q=topic%3Aretrieval-augmented-generation&type=repositories][retrieval-augmented-generation]]^{3}
+[[https://github.com/search?q=topic%3Amachine-learning&type=repositories][machine-learning]]^{3}
+[[https://github.com/search?q=topic%3Agenerative-ai&type=repositories][generative-ai]]^{3}
+[[https://github.com/search?q=topic%3Aconference&type=repositories][conference]]^{3}
+[[https://github.com/search?q=topic%3Aclojure&type=repositories][clojure]]^{3}
+[[https://github.com/search?q=topic%3Aaws&type=repositories][aws]]^{3}
+[[https://github.com/search?q=topic%3Ax11&type=repositories][x11]]^{2}
+[[https://github.com/search?q=topic%3Aworkshop&type=repositories][workshop]]^{2}
+[[https://github.com/search?q=topic%3Aunix&type=repositories][unix]]^{2}
+[[https://github.com/search?q=topic%3Ascheme&type=repositories][scheme]]^{2}
+[[https://github.com/search?q=topic%3Aprogramming-languages&type=repositories][programming-languages]]^{2}
+[[https://github.com/search?q=topic%3Ametrics&type=repositories][metrics]]^{2}
+[[https://github.com/search?q=topic%3Alisp&type=repositories][lisp]]^{2}
 [[https://github.com/search?q=topic%3Alangchain&type=repositories][langchain]]^{2}
-[[https://github.com/search?q=topic%3Agenerative-ai&type=repositories][generative-ai]]^{2}
-[[https://github.com/search?q=topic%3Afunctional-programming&type=repositories][functional-programming]]^{2}
+[[https://github.com/search?q=topic%3Aguile&type=repositories][guile]]^{2}
 

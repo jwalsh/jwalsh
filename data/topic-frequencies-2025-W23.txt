@@ -1,91 +1,157 @@
-   5 python
-   3 rag
-   3 llm
-   2 visualization
-   2 retrieval-augmented-generation
-   2 machine-learning
+   9 python
+   7 llm
+   4 rag
+   4 functional-programming
+   3 visualization
+   3 retrieval-augmented-generation
+   3 machine-learning
+   3 generative-ai
+   3 conference
+   3 clojure
+   3 aws
+   2 x11
+   2 workshop
+   2 unix
+   2 scheme
+   2 programming-languages
+   2 metrics
+   2 lisp
    2 langchain
-   2 generative-ai
-   2 functional-programming
+   2 guile
+   2 fine-tuning
+   2 developer-tools
+   2 bedrock
+   2 automation
+   2 ai
    1 xtoolkit
    1 xquartz
+   1 xload
    1 xaw
-   1 x11
-   1 workshop
    1 word-game
+   1 webassembly
+   1 verification
    1 vector-search
-   1 unix
+   1 type-hints
+   1 token-usage
+   1 tmux
+   1 theory
    1 text-to-sql
+   1 testing
    1 task-decomposition
    1 summit
    1 study-group
    1 simulacra
    1 scrabble
-   1 scheme
    1 sagemaker
+   1 s3
    1 responsible-ai
+   1 research
    1 repository-analysis
    1 ratios
    1 qrcode
+   1 python3
+   1 python-tutorial
+   1 python-internals
+   1 puzzles
+   1 prompt-management
+   1 prompt-engineering
    1 project-management
+   1 popl
+   1 polyglot
+   1 poetry
    1 philosophy
+   1 org-mode
+   1 observability
+   1 object-storage
    1 nlp-2025
    1 nlp
+   1 nfl
+   1 natural-language-processing
+   1 named-pipes
    1 multi-project
+   1 monitoring
    1 model-context-protocol
    1 mlops
    1 mla-c01
-   1 metrics
+   1 mistral
    1 metaprogramming
+   1 metaclasses
    1 mcp-server
    1 mcp
+   1 makefile
    1 macos
    1 localstack
-   1 lisp
    1 linux
+   1 learning-resources
+   1 lambda-calculus
+   1 journal-analysis
    1 hy
    1 healthcare
-   1 guile
+   1 hackathon
+   1 github-profile
+   1 github-api
    1 git
+   1 generators
    1 genai
+   1 gameday
    1 game
    1 foundation-models
-   1 fine-tuning
    1 experimental
    1 exam-preparation
+   1 evaluation
    1 embeddings
-   1 developer-tools
+   1 emacsconf
+   1 emacs
+   1 educational
+   1 education
+   1 editor
+   1 dreamobjects
+   1 dreamhost
    1 design-patterns
+   1 descriptors
+   1 decorators
+   1 data-visualization
    1 data-structure
    1 cross-platform
-   1 conference
+   1 cpython
+   1 context-managers
+   1 concurrency
+   1 computer-science
+   1 competition
+   1 community-event
    1 codenexus
    1 code-metrics
    1 code-generation
    1 code-analysis
-   1 clojure
+   1 cloud-storage
+   1 cloud
+   1 cli
    1 claude
+   1 citations-api
    1 c-language
    1 c
    1 builder-agents
+   1 book-review
    1 board-game
-   1 bedrock
    1 baudrillard
+   1 babashka
    1 aws-training
+   1 aws-services
    1 aws-sagemaker
    1 aws-rekognition
    1 aws-ml-services
+   1 aws-gameday
    1 aws-comprehend
    1 aws-certification
    1 aws-bedrock
    1 aws-ai-practitioner
-   1 aws
-   1 automation
+   1 async-python
    1 api
+   1 anthropic
    1 algorithm
    1 aif-c01
+   1 ai-systems
    1 ai-development
    1 ai-assisted-development
-   1 ai
    1 agents
    1 advanced-python
