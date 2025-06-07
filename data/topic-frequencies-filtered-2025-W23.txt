@@ -20,16 +20,17 @@
    4 mathematics
    4 gaming
    4 aws
+   4 automation
    3 visualization
    3 statistics
    3 scheme
    3 retrieval-augmented-generation
+   3 langchain
    3 gamr
    3 developer-tools
    3 data-structures
    3 common-lisp
    3 clojure
-   3 automation
    3 algorithms
    2 x11
    2 unix
@@ -49,7 +50,6 @@
    2 metrics
    2 mermaid
    2 mcp
-   2 langchain
    2 guile
    2 game
    2 frontend
