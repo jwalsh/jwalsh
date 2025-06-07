@@ -1,13 +1,14 @@
   13 python
   13 emacs
+  12 llm
   12 emacs-lisp
   12 elisp
-  11 llm
    9 event
    9 educational
    9 conference
    8 workshop
    8 education
+   7 api
    6 lisp
    5 org-mode
    5 machine-learning
@@ -22,6 +23,7 @@
    3 statistics
    3 scheme
    3 retrieval-augmented-generation
+   3 developer-tools
    3 data-structures
    3 common-lisp
    3 clojure
@@ -29,35 +31,44 @@
    2 x11
    2 unix
    2 simulation
+   2 rest-api
    2 random-processes
    2 prompt-engineering
    2 programming-languages
    2 probability
+   2 openapi
+   2 nodejs
    2 neural-networks
    2 natural-language-processing
    2 model-context-protocol
+   2 microsoft
    2 metrics
    2 mermaid
    2 mcp
    2 langchain
    2 guile
    2 fine-tuning
-   2 developer-tools
    2 computer-science
    2 bedrock
    2 aws-services
    2 automation
+   2 api-specification
+   2 api-design
    1 yasnippet
    1 xtoolkit
    1 xquartz
    1 xload
    1 xaw
+   1 wurfl
    1 word-game
    1 webassembly
    1 vsevolod-domkin
    1 verification
    1 vector-search
+   1 validation
    1 utilities
+   1 user-agent
+   1 typespec
    1 type-hints
    1 tutorial
    1 tokenization
@@ -68,6 +79,7 @@
    1 testing
    1 task-decomposition
    1 system-design
+   1 swagger
    1 summit
    1 study-group
    1 stochastic-processes
@@ -76,11 +88,14 @@
    1 snippets
    1 slideshow
    1 simulacra
+   1 sdk
    1 scrabble
    1 scientific-computing
+   1 schema
    1 sagemaker
    1 s3
    1 reuven-lerner
+   1 rest-to-graphql
    1 responsible-ai
    1 research
    1 repository-analysis
@@ -104,6 +119,7 @@
    1 poetry
    1 philosophy
    1 parser
+   1 openai
    1 observability
    1 object-storage
    1 numerical-methods
@@ -116,11 +132,11 @@
    1 monte-carlo
    1 monitoring
    1 modernization
+   1 mobile
    1 mlops
    1 mla-c01
    1 mistral
    1 migration
-   1 microsoft
    1 metaprogramming
    1 metaclasses
    1 mcp-server
@@ -128,11 +144,13 @@
    1 macos
    1 localstack
    1 linux
+   1 linter
    1 learning-resources
    1 learning
    1 lambda-calculus
    1 journal-analysis
    1 javascript-library
+   1 javascript
    1 infrastructure
    1 hy
    1 html
@@ -140,13 +158,18 @@
    1 hands-on
    1 hackathon
    1 gutenberg
+   1 graphql
+   1 gpt
    1 github-profile
    1 github-api
    1 git
    1 generators
    1 genai
+   1 gamr
+   1 gaming
    1 gameday
    1 game
+   1 frontend
    1 foundation-models
    1 exporter
    1 experimental
@@ -161,8 +184,10 @@
    1 dreamobjects
    1 dreamhost
    1 diagrams
+   1 device-detection
    1 design-patterns
    1 descriptors
+   1 defrecord
    1 deep-learning
    1 decorators
    1 data-visualization
@@ -183,6 +208,7 @@
    1 cloud-storage
    1 cloud-architecture
    1 cloud
+   1 client-library
    1 cli
    1 claude
    1 classic
@@ -196,6 +222,7 @@
    1 board-game
    1 beginner-friendly
    1 baudrillard
+   1 backend
    1 babel
    1 babashka
    1 aws-training
@@ -211,7 +238,7 @@
    1 async-python
    1 artificial-intelligence
    1 architecture
-   1 api
+   1 api-gateway
    1 anthropic
    1 amazon-bedrock
    1 algorithm
@@ -222,3 +249,4 @@
    1 ai-assisted-development
    1 agents
    1 advanced-python
+   1 adapter

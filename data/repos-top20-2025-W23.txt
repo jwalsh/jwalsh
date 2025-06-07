@@ -1,13 +1,14 @@
   13 python
   13 emacs
+  12 llm
   12 emacs-lisp
   12 elisp
-  11 llm
    9 event
    9 educational
    9 conference
    8 workshop
    8 education
+   7 api
    6 lisp
    5 org-mode
    5 machine-learning
@@ -17,4 +18,3 @@
    4 rag
    4 mathematics
    4 aws
-   4 ai
