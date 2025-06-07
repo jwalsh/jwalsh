@@ -1,20 +1,20 @@
-   9 python
-   7 llm
+  13 emacs
+  12 emacs-lisp
+  12 elisp
+  10 python
+   9 llm
+   9 event
+   9 conference
+   8 education
+   7 workshop
+   5 org-mode
    4 rag
+   4 machine-learning
    4 functional-programming
+   4 ai
    3 visualization
    3 retrieval-augmented-generation
-   3 machine-learning
    3 generative-ai
-   3 conference
    3 clojure
    3 aws
    2 x11
-   2 workshop
-   2 unix
-   2 scheme
-   2 programming-languages
-   2 metrics
-   2 lisp
-   2 langchain
-   2 guile

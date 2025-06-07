@@ -5,7 +5,11 @@
       "Bash(git commit:*)",
       "Bash(git push:*)",
       "Bash(gh repo edit:*)",
-      "Bash(make:*)"
+      "Bash(make:*)",
+      "Bash(# Add topics to sandbox-update.el\ngh repo edit jwalsh/sandbox-update.el --add-topic emacs --add-topic elisp --add-topic emacs-lisp)",
+      "Bash(# Add topics to org-confluence\ngh repo edit jwalsh/org-confluence --add-topic emacs --add-topic elisp --add-topic emacs-lisp --add-topic org-mode --add-topic confluence --add-topic exporter)",
+      "Bash(# Add emacs topic to emacsconf-2024 (already has other topics)\ngh repo edit jwalsh/emacsconf-2024 --add-topic elisp --add-topic emacs-lisp)",
+      "Bash(gh repo view:*)"
     ],
     "deny": []
   }
