@@ -1,20 +1,20 @@
+  13 python
   13 emacs
-  12 python
   12 emacs-lisp
   12 elisp
-  10 llm
+  11 llm
    9 event
+   9 educational
    9 conference
    8 workshop
    8 education
+   6 lisp
    5 org-mode
+   5 machine-learning
+   5 generative-ai
    5 functional-programming
-   5 educational
+   5 book
    4 rag
    4 mathematics
-   4 machine-learning
-   4 lisp
-   4 generative-ai
    4 aws
    4 ai
-   3 visualization

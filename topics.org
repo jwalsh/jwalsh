@@ -3,24 +3,24 @@
 
 -----
 
+[[https://github.com/search?q=topic%3Apython&type=repositories][python]]^{13}
 [[https://github.com/search?q=topic%3Aemacs&type=repositories][emacs]]^{13}
-[[https://github.com/search?q=topic%3Apython&type=repositories][python]]^{12}
 [[https://github.com/search?q=topic%3Aemacs-lisp&type=repositories][emacs-lisp]]^{12}
 [[https://github.com/search?q=topic%3Aelisp&type=repositories][elisp]]^{12}
-[[https://github.com/search?q=topic%3Allm&type=repositories][llm]]^{10}
+[[https://github.com/search?q=topic%3Allm&type=repositories][llm]]^{11}
 [[https://github.com/search?q=topic%3Aevent&type=repositories][event]]^{9}
+[[https://github.com/search?q=topic%3Aeducational&type=repositories][educational]]^{9}
 [[https://github.com/search?q=topic%3Aconference&type=repositories][conference]]^{9}
 [[https://github.com/search?q=topic%3Aworkshop&type=repositories][workshop]]^{8}
 [[https://github.com/search?q=topic%3Aeducation&type=repositories][education]]^{8}
+[[https://github.com/search?q=topic%3Alisp&type=repositories][lisp]]^{6}
 [[https://github.com/search?q=topic%3Aorg-mode&type=repositories][org-mode]]^{5}
+[[https://github.com/search?q=topic%3Amachine-learning&type=repositories][machine-learning]]^{5}
+[[https://github.com/search?q=topic%3Agenerative-ai&type=repositories][generative-ai]]^{5}
 [[https://github.com/search?q=topic%3Afunctional-programming&type=repositories][functional-programming]]^{5}
-[[https://github.com/search?q=topic%3Aeducational&type=repositories][educational]]^{5}
+[[https://github.com/search?q=topic%3Abook&type=repositories][book]]^{5}
 [[https://github.com/search?q=topic%3Arag&type=repositories][rag]]^{4}
 [[https://github.com/search?q=topic%3Amathematics&type=repositories][mathematics]]^{4}
-[[https://github.com/search?q=topic%3Amachine-learning&type=repositories][machine-learning]]^{4}
-[[https://github.com/search?q=topic%3Alisp&type=repositories][lisp]]^{4}
-[[https://github.com/search?q=topic%3Agenerative-ai&type=repositories][generative-ai]]^{4}
 [[https://github.com/search?q=topic%3Aaws&type=repositories][aws]]^{4}
 [[https://github.com/search?q=topic%3Aai&type=repositories][ai]]^{4}
-[[https://github.com/search?q=topic%3Avisualization&type=repositories][visualization]]^{3}
 

@@ -1,36 +1,39 @@
+  13 python
   13 emacs
-  12 python
   12 emacs-lisp
   12 elisp
-  10 llm
+  11 llm
    9 event
+   9 educational
    9 conference
    8 workshop
    8 education
+   6 lisp
    5 org-mode
+   5 machine-learning
+   5 generative-ai
    5 functional-programming
-   5 educational
+   5 book
    4 rag
    4 mathematics
-   4 machine-learning
-   4 lisp
-   4 generative-ai
    4 aws
    4 ai
    3 visualization
    3 statistics
+   3 scheme
    3 retrieval-augmented-generation
    3 data-structures
+   3 common-lisp
    3 clojure
    3 algorithms
    2 x11
    2 unix
    2 simulation
-   2 scheme
    2 random-processes
    2 prompt-engineering
    2 programming-languages
    2 probability
+   2 neural-networks
    2 natural-language-processing
    2 model-context-protocol
    2 metrics
@@ -41,7 +44,6 @@
    2 fine-tuning
    2 developer-tools
    2 computer-science
-   2 common-lisp
    2 bedrock
    2 aws-services
    2 automation
@@ -57,6 +59,7 @@
    1 vector-search
    1 utilities
    1 type-hints
+   1 tutorial
    1 tokenization
    1 token-usage
    1 tmux
@@ -77,17 +80,20 @@
    1 scientific-computing
    1 sagemaker
    1 s3
+   1 reuven-lerner
    1 responsible-ai
    1 research
    1 repository-analysis
    1 reference-architecture
    1 react
    1 ratios
+   1 racket
    1 qrcode
    1 python3
    1 python-tutorial
    1 python-lisp
    1 python-internals
+   1 python-book
    1 puzzles
    1 prompt-management
    1 project-management
@@ -101,10 +107,10 @@
    1 observability
    1 object-storage
    1 numerical-methods
+   1 norvig
    1 nlp-2025
    1 nlp
    1 nfl
-   1 neural-networks
    1 named-pipes
    1 multi-project
    1 monte-carlo
@@ -114,6 +120,7 @@
    1 mla-c01
    1 mistral
    1 migration
+   1 microsoft
    1 metaprogramming
    1 metaclasses
    1 mcp-server
@@ -122,6 +129,7 @@
    1 localstack
    1 linux
    1 learning-resources
+   1 learning
    1 lambda-calculus
    1 journal-analysis
    1 javascript-library
@@ -142,6 +150,7 @@
    1 foundation-models
    1 exporter
    1 experimental
+   1 exercises
    1 exam-preparation
    1 evaluation
    1 embeddings
@@ -154,12 +163,14 @@
    1 diagrams
    1 design-patterns
    1 descriptors
+   1 deep-learning
    1 decorators
    1 data-visualization
    1 data-structure
    1 data-science
    1 cross-platform
    1 cpython
+   1 course
    1 context-managers
    1 confluence
    1 concurrency
@@ -174,6 +185,7 @@
    1 cloud
    1 cli
    1 claude
+   1 classic
    1 citations-api
    1 c-language
    1 c
@@ -181,8 +193,8 @@
    1 boston-python
    1 book-review
    1 book-code
-   1 book
    1 board-game
+   1 beginner-friendly
    1 baudrillard
    1 babel
    1 babashka
@@ -197,6 +209,7 @@
    1 aws-bedrock
    1 aws-ai-practitioner
    1 async-python
+   1 artificial-intelligence
    1 architecture
    1 api
    1 anthropic
@@ -204,6 +217,7 @@
    1 algorithm
    1 aif-c01
    1 ai-systems
+   1 ai-programming
    1 ai-development
    1 ai-assisted-development
    1 agents
