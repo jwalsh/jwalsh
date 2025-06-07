@@ -1,34 +1,43 @@
   13 emacs
+  12 python
   12 emacs-lisp
   12 elisp
-  10 python
-   9 llm
+  10 llm
    9 event
    9 conference
+   8 workshop
    8 education
-   7 workshop
    5 org-mode
    4 rag
+   4 mathematics
    4 machine-learning
+   4 generative-ai
    4 functional-programming
+   4 aws
    4 ai
    3 visualization
+   3 statistics
    3 retrieval-augmented-generation
-   3 generative-ai
    3 clojure
-   3 aws
    2 x11
    2 unix
+   2 simulation
    2 scheme
+   2 random-processes
    2 prompt-engineering
    2 programming-languages
+   2 probability
+   2 natural-language-processing
    2 model-context-protocol
    2 metrics
+   2 mermaid
    2 mcp
    2 lisp
    2 langchain
    2 guile
    2 fine-tuning
+   2 educational
    2 developer-tools
    2 bedrock
+   2 aws-services
    2 automation
