@@ -4,8 +4,8 @@
 ---
 
 [python](https://github.com/search?q=topic%3Apython&type=repositories)<sup>16</sup>
+[emacs](https://github.com/search?q=topic%3Aemacs&type=repositories)<sup>14</sup>
 [llm](https://github.com/search?q=topic%3Allm&type=repositories)<sup>13</sup>
-[emacs](https://github.com/search?q=topic%3Aemacs&type=repositories)<sup>13</sup>
 [emacs-lisp](https://github.com/search?q=topic%3Aemacs-lisp&type=repositories)<sup>12</sup>
 [elisp](https://github.com/search?q=topic%3Aelisp&type=repositories)<sup>12</sup>
 [event](https://github.com/search?q=topic%3Aevent&type=repositories)<sup>9</sup>
