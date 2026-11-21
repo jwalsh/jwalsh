@@ -1,4 +1,3 @@
-- 👋 [[https://github.com/jwalsh][[cite/t:@jwalsh]]]
 - 📫 j at [[https://wal.sh][wal.sh]]
 
 #+INCLUDE: "topics.org"

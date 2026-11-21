@@ -1,3 +1,8 @@
 
 # Claude Code per-user settings: approved commands can carry secrets; never commit.
 .claude/settings.local.json
+
+# Fetched data includes private repo names/descriptions; only the top-N summary is published.
+data/repos-list-*.json
+data/topic-frequencies-*.txt
+data/topic-audit/

@@ -49,8 +49,8 @@ $(DATA_DIR)/: ## Create data directory if it doesn't exist
 
 # Primary data source - GitHub repository list as JSON (weekly timestamped)
 $(REPOS_FILE): | $(DATA_DIR)/ check-tools ## Fetch repository data from GitHub API
-	@echo "Fetching public non-archived repository data for $(YEAR_WEEK)..."
-	@$(GH) repo list --visibility public --no-archived --limit 200 --json name,description,repositoryTopics,url,createdAt,updatedAt > $@
+	@echo "Fetching non-archived, non-fork repository data (all visibilities) for $(YEAR_WEEK)..."
+	@$(GH) repo list --source --no-archived --limit 1000 --json name,visibility,description,repositoryTopics,url,createdAt,updatedAt > $@
 	@echo "Repository data fetched to $@"
 
 # Direct frequency count in standard format (weekly timestamped)
@@ -110,7 +110,7 @@ top20: $(TOP_FILE) ## Shortcut for extracting top topics
 # Commit changes to GitHub (no CI)
 commit: all ## Build and commit README.md with [skip ci]
 	@echo "Committing README.md with [skip ci]..."
-	@git add README.md
+	@git add README.md topics.org $(TOP_FILE)
 	@git commit -m "docs: update README with latest topics [skip ci]" -m "Update GitHub profile with current repository topics ($(YEAR_WEEK))"
 	@git push origin main
 	@echo "Changes committed and pushed to GitHub."
