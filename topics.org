@@ -5,6 +5,7 @@
 
 [[https://github.com/search?q=topic%3Apython&type=repositories][python]]^{81}
 [[https://github.com/search?q=topic%3Aclojure&type=repositories][clojure]]^{43}
+[[https://github.com/search?q=topic%3Aworkshop&type=repositories][workshop]]^{30}
 [[https://github.com/search?q=topic%3Amachine-learning&type=repositories][machine-learning]]^{30}
 [[https://github.com/search?q=topic%3Allm&type=repositories][llm]]^{30}
 [[https://github.com/search?q=topic%3Aorg-mode&type=repositories][org-mode]]^{29}
@@ -12,7 +13,6 @@
 [[https://github.com/search?q=topic%3Aemacs&type=repositories][emacs]]^{27}
 [[https://github.com/search?q=topic%3Atypescript&type=repositories][typescript]]^{24}
 [[https://github.com/search?q=topic%3Aconference&type=repositories][conference]]^{23}
-[[https://github.com/search?q=topic%3Aworkshop&type=repositories][workshop]]^{20}
 [[https://github.com/search?q=topic%3Ajavascript&type=repositories][javascript]]^{19}
 [[https://github.com/search?q=topic%3Aai&type=repositories][ai]]^{19}
 [[https://github.com/search?q=topic%3Anodejs&type=repositories][nodejs]]^{17}

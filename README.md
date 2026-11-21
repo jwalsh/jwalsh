@@ -4,6 +4,7 @@
 
 [python](https://github.com/search?q=topic%3Apython&type=repositories)<sup>81</sup>
 [clojure](https://github.com/search?q=topic%3Aclojure&type=repositories)<sup>43</sup>
+[workshop](https://github.com/search?q=topic%3Aworkshop&type=repositories)<sup>30</sup>
 [machine-learning](https://github.com/search?q=topic%3Amachine-learning&type=repositories)<sup>30</sup>
 [llm](https://github.com/search?q=topic%3Allm&type=repositories)<sup>30</sup>
 [org-mode](https://github.com/search?q=topic%3Aorg-mode&type=repositories)<sup>29</sup>
@@ -11,7 +12,6 @@
 [emacs](https://github.com/search?q=topic%3Aemacs&type=repositories)<sup>27</sup>
 [typescript](https://github.com/search?q=topic%3Atypescript&type=repositories)<sup>24</sup>
 [conference](https://github.com/search?q=topic%3Aconference&type=repositories)<sup>23</sup>
-[workshop](https://github.com/search?q=topic%3Aworkshop&type=repositories)<sup>20</sup>
 [javascript](https://github.com/search?q=topic%3Ajavascript&type=repositories)<sup>19</sup>
 [ai](https://github.com/search?q=topic%3Aai&type=repositories)<sup>19</sup>
 [nodejs](https://github.com/search?q=topic%3Anodejs&type=repositories)<sup>17</sup>

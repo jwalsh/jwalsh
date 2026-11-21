@@ -1,5 +1,6 @@
   81 python
   43 clojure
+  30 workshop
   30 machine-learning
   30 llm
   29 org-mode
@@ -7,7 +8,6 @@
   27 emacs
   24 typescript
   23 conference
-  20 workshop
   19 javascript
   19 ai
   17 nodejs
